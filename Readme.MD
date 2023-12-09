@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="600" src="https://i.ibb.co/XX79wSN/Screenshot-2023-12-09-153304.png">
+<img  alt="Coding" width="full" src="https://i.ibb.co/XX79wSN/Screenshot-2023-12-09-153304.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="iamrazzakk" /> </p>
@@ -25,6 +25,9 @@
 
 
 <h3 align="left">📫 Connect with me:</h3>
-<p align="left">
+<p align="">
 <a href="https://www.linkedin.com/in/razzak392/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razzak" height="30" width="40" /></a>
+</p>
+<p align="">
+<a href="rakibt23p@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="razzak" height="30" width="40" /></a>
 </p>
