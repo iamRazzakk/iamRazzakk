@@ -14,11 +14,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamRazzakk&theme=yeblu)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamRazzakk&theme=yeblu)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamRazzakk&theme=yeblu)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamRazzakk&theme=yeblu&utcOffset=8)
 
