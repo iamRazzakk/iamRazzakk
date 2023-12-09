@@ -14,9 +14,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamRazzakk&theme=yeblu)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamRazzakk&theme=yeblu&utcOffset=8)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu)
 
 # Technologies that I know 💻
 
