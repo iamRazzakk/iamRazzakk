@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1280" height="400" src="https://i.ibb.co/XX79wSN/Screenshot-2023-12-09-153304.png">
+<img align="center" alt="Coding" width="1280" height="350" src="https://i.ibb.co/XX79wSN/Screenshot-2023-12-09-153304.png">
 
 - 🌱 Currently learning **Next.js**
 
