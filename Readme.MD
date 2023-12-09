@@ -15,9 +15,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamrazzakk&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamrazzakk&theme=yeblu&utcOffset=8)
 
 
 # Technologies that I know 💻
