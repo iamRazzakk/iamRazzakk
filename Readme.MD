@@ -1,9 +1,10 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="iamrazzakk" /> </p>
 
 # Current Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=yellowdark" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=yellowdark)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu)
 
