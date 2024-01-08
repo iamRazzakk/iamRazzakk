@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **React**
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: **rakibt23p@gmail.com**
+- 📫 How to reach me: **mdabdurrazzakrakib290@gmail.com**
 
 - ⚡ Fun fact: **Committing code and committing to not taking life too seriously. 🤪**
 
