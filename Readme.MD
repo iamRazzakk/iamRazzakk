@@ -39,7 +39,7 @@ My objective is to advance from a junior developer to a seasoned professional wi
 
 
 <br>
-# Technologies that I know 💻
+# 💻 Technologies that I know:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs,git,github,vscode,figma" />
@@ -47,6 +47,7 @@ My objective is to advance from a junior developer to a seasoned professional wi
 </p>
 
 <br>
-  # 📫 Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
+
+# 📫 Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/)[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
 Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
