@@ -40,9 +40,12 @@ My objective is to advance from a junior developer to a seasoned professional wi
 
 
 # Technologies that I know 💻
-<p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs,git,github,vscode,figma)](https://skillicons.dev)
-</p>
+    <div align="center">
+    <a href="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs,git,github,vscode,figma">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs,git,github,vscode,figma" alt="My Skills">
+    </a>
+</div>
+
 
   # 📫 Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
