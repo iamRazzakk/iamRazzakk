@@ -3,10 +3,9 @@
 - 🌱 Currently learning **Next.js**
 
 - 💬 Ask me about **React**
-- 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: **mdabdurrazzakrakib290@gmail.com**
-
 - ⚡ Fun fact: **Committing code and committing to not taking life too seriously. 🤪**
+
 
 # 🚀 What I Bring to the Table:
 _ Aspiring Front-End Developer: I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
@@ -19,6 +18,7 @@ Over the next two years, my goal is to evolve from a junior developer to a seaso
 # 💼 What I'm Looking For:
 My objective is to advance from a junior developer to a seasoned professional within the next two years. I'm committed to lifelong learning, taking on difficult tasks, and honing my abilities so that I can contribute more effectively. I'm excited about the path of development and growth that lies ahead!
 
+<br>
 # Current Stats 📊
 
   <p align="center">
@@ -38,7 +38,7 @@ My objective is to advance from a junior developer to a seasoned professional wi
 
 
 
-
+<br>
 # Technologies that I know 💻
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@ My objective is to advance from a junior developer to a seasoned professional wi
   </a>
 </p>
 
-
+<br>
   # 📫 Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
 Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
