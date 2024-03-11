@@ -53,5 +53,5 @@ My objective is to advance from a junior developer to a seasoned professional wi
 
 # 📫 Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/)  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
-Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
+                                                                           [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/)  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
+                                                                           Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
