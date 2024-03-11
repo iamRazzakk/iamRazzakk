@@ -21,12 +21,21 @@ My objective is to advance from a junior developer to a seasoned professional wi
 
 # Current Stats 📊
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=yellowdark)](https://git.io/streak-stats)
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=yellowdark" alt="GitHub Streak">
+    </a>
+</p>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu)
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu" alt="Profile Details">
+</p>
 
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu" alt="Repos Per Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu" alt="Stats">
+</p>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu)
 
 
 
