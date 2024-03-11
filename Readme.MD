@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="1280" height="350" src="https://i.ibb.co/88QGj8p/MERN-Starc-Developer.png">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="iamrazzakk" /> </p>
 - 🌱 Currently learning **Next.js**
 
 - 💬 Ask me about **React**
@@ -36,8 +36,7 @@ My objective is to advance from a junior developer to a seasoned professional wi
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=algolia" alt="Repos Per Language">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=algolia" alt="Stats">
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrazzakk&" alt="iamrazzakk" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en" alt="iamrazzakk" /></p>
 
 <br>
 
