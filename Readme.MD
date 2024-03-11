@@ -15,9 +15,10 @@ Hey there! 👋 I'm Md Abdur Razzak, a passionate MERN stack developer hailing f
 <br>
 
 # 🚀 What I Bring to the Table:
-_ Aspiring Front-End Developer: I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
-_ React Enthusiast: I'm particularly excited about React and its component-based architecture. I believe it's the key to writing maintainable and efficient code that scales.
-_ MERN Stack Explorer: Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
+- **As a future front-end developer**: I'm passionate about creating aesthetically pleasing and intuitive user interfaces. Every project I take on demonstrates my dedication to developing captivating online experiences.
+- **React Fanatic**: React and its component-based architecture especially excite me. It's essential, in my opinion, to writing scalable, manageable, and effective code.
+- **MERN Stack Explorer**: Skilled in the MERN stack (Express, React, Node, and MongoDB), I like to build reliable and scalable web applications and like learning new things every time I write a line of code.
+
 
 <br>
 
@@ -69,4 +70,4 @@ My objective is to advance from a junior developer to a seasoned professional wi
 # 📫 Connect with me:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/)  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
-<p align="center"> Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.</p>
+<p align="left"> Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.</p>
