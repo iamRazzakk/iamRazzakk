@@ -37,8 +37,8 @@ My objective is to advance from a junior developer to a seasoned professional wi
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=algolia" alt="Stats">
 </p>
 <div align="center">
-    <div style="display: inline-block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en" alt="iamrazzakk" />
+    <div style="display: inline-block; text-align: left; background-color: #050F2C; padding: 20px; border-radius: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en&theme=algolia" alt="iamrazzakk" />
     </div>
 </div>
 
