@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1280" height="350" src="https://i.ibb.co/XX79wSN/Screenshot-2023-12-09-153304.png">
+<img align="center" alt="Coding" width="1280" height="350" src="https://i.ibb.co/88QGj8p/MERN-Starc-Developer.png">
 
 - 🌱 Currently learning **Next.js**
 
@@ -24,7 +24,7 @@ My objective is to advance from a junior developer to a seasoned professional wi
 
   <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=yellowdark" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=algolia" alt="GitHub Streak">
     </a>
 </p>
 
@@ -33,8 +33,8 @@ My objective is to advance from a junior developer to a seasoned professional wi
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu" alt="Repos Per Language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu" alt="Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=algolia" alt="Repos Per Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=algolia" alt="Stats">
 </p>
 
 
