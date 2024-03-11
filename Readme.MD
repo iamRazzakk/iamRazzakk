@@ -8,24 +8,35 @@
 
 - ⚡ Fun fact: **Committing code and committing to not taking life too seriously. 🤪**
 
+# 🚀 What I Bring to the Table:
+_ Aspiring Front-End Developer: I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
+_ React Enthusiast: I'm particularly excited about React and its component-based architecture. I believe it's the key to writing maintainable and efficient code that scales.
+_ MERN Stack Explorer: Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
+
+# 🌟 My Aspirations for the Next 2 Years:
+Over the next two years, my goal is to evolve from a junior developer to a seasoned professional. I'm dedicated to continuous learning, tackling challenging projects, and refining my skills to contribute at a higher level. I'm thrilled about the journey of growth and development ahead!
+
+# 💼 What I'm Looking For:
+My objective is to advance from a junior developer to a seasoned professional within the next two years. I'm committed to lifelong learning, taking on difficult tasks, and honing my abilities so that I can contribute more effectively. I'm excited about the path of development and growth that lies ahead!
+
 # Current Stats 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=yellowdark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=yellowdark)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=yeblu)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=yeblu)
 
 
 
 # Technologies that I know 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs)](https://skillicons.dev)
 
-<h3 align="left">📫 Connect with me:</h3>
+  <h3 align="left">📫 Connect with me:</h3>
 
-<p align="">
+  <p align="">
   <a href="https://www.linkedin.com/in/razzak392/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razzak" height="30" width="40" />
   </a>
