@@ -1,7 +1,13 @@
 <img align="center" alt="Coding" width="1280" height="350" src="https://i.ibb.co/88QGj8p/MERN-Starc-Developer.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="iamrazzakk" /> </p>
-- 🌱 Currently learning **Next.js**
+ 
+# 🙋‍♂️ About me
 
+Hey there! 👋 I'm Md Abdur Razzak, a passionate MERN stack developer hailing from the vibrant city of Chattogram, Bangladesh. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in the front end, with a strong focus on React.js and Next.js.
+
+<br>
+
+- 🌱 Currently learning **Next.js**
 - 💬 Ask me about **React**
 - 📫 How to reach me: **mdabdurrazzakrakib290@gmail.com**
 - ⚡ Fun fact: **Committing code and committing to not taking life too seriously. 🤪**
@@ -15,7 +21,10 @@ _ MERN Stack Explorer: Proficient in the MERN stack (MongoDB, Express.js, React.
 # 🌟 My Aspirations for the Next 2 Years:
 Over the next two years, my goal is to evolve from a junior developer to a seasoned professional. I'm dedicated to continuous learning, tackling challenging projects, and refining my skills to contribute at a higher level. I'm thrilled about the journey of growth and development ahead!
 
+<br>
+
 # 💼 What I'm Looking For:
+
 My objective is to advance from a junior developer to a seasoned professional within the next two years. I'm committed to lifelong learning, taking on difficult tasks, and honing my abilities so that I can contribute more effectively. I'm excited about the path of development and growth that lies ahead!
 
 <br>
