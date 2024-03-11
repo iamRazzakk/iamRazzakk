@@ -29,14 +29,14 @@ My objective is to advance from a junior developer to a seasoned professional wi
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=yeblu" alt="Profile Details">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=algolia" alt="Profile Details">
 </p>
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=algolia" alt="Repos Per Language">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=algolia" alt="Stats">
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en" alt="iamrazzakk" /></p>
+              <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en" alt="iamrazzakk" /></p>
 
 <br>
 
