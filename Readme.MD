@@ -36,9 +36,9 @@ My objective is to advance from a junior developer to a seasoned professional wi
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=algolia" alt="Repos Per Language">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=algolia" alt="Stats">
 </p>
-<div style="text-align: center;">
+<p align="center">
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en" alt="iamrazzakk" /></p>
-</div>
+</p>
 <br>
 
 # 💻 Technologies that I know:
