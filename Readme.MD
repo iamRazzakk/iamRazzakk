@@ -12,11 +12,14 @@ Hey there! 👋 I'm Md Abdur Razzak, a passionate MERN stack developer hailing f
 - 📫 How to reach me: **mdabdurrazzakrakib290@gmail.com**
 - ⚡ Fun fact: **Committing code and committing to not taking life too seriously. 🤪**
 
+<br>
 
 # 🚀 What I Bring to the Table:
 _ Aspiring Front-End Developer: I specialize in crafting visually appealing and user-friendly interfaces. My commitment to creating engaging web experiences is evident in every project I tackle.
 _ React Enthusiast: I'm particularly excited about React and its component-based architecture. I believe it's the key to writing maintainable and efficient code that scales.
 _ MERN Stack Explorer: Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), I enjoy building solid and scalable web applications, learning and growing with each line of code.
+
+<br>
 
 # 🌟 My Aspirations for the Next 2 Years:
 Over the next two years, my goal is to evolve from a junior developer to a seasoned professional. I'm dedicated to continuous learning, tackling challenging projects, and refining my skills to contribute at a higher level. I'm thrilled about the journey of growth and development ahead!
