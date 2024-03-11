@@ -43,13 +43,7 @@ My objective is to advance from a junior developer to a seasoned professional wi
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs)](https://skillicons.dev)
 
-  # <h3 align="left">📫 Connect with me:</h3>
+  # 📫 Connect with me:
 
-                                                                  <p align="">
-                                                                  <a href="https://www.linkedin.com/in/razzak392/" target="_blank">
-                                                                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razzak" height="30" width="40" />
-  </a>
-                                                                  <a href="mailto:rakibt23p@gmail.com" target="_blank">
-                                                                  <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="razzak" height="30" width="50" />
-  </a>
-</p>
+                                            [![LinkedIn](https://skillicons.dev/icons/linkedin.svg)](https://www.linkedin.com/in/razzak392/)
+                                            [![Twitter](https://skillicons.dev/icons/twitter.svg)](https://twitter.com/rakibt23p/)
