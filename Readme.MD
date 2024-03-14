@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/88QGj8p/MERN-Starc-Developer.png" alt="Coding" width="1280" height="350" style="object-fit: cover;">
+  <img src="https://i.ibb.co/fMCP35f/MERN-Starc-Developer.png" alt="Coding" width="1280" height="350" style="object-fit: cover;">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="iamrazzakk" /> </p>
  
