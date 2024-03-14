@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1280" height="350" src="https://i.ibb.co/88QGj8p/MERN-Starc-Developer.png">
+<img align="center" alt="Coding" width="1280" height="350" style="object-fit: cover; src="https://i.ibb.co/88QGj8p/MERN-Starc-Developer.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="iamrazzakk" /> </p>
  
 # 🙋‍♂️ About me
