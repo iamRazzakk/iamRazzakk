@@ -26,9 +26,22 @@ Hey there! 👋 I'm Md Abdur Razzak, a passionate MERN stack developer hailing f
 
 
 # 🌈 Discover My Best Projects
-## Turitors (Educational Web)
+## 📚 Turitors (Educational Web)
 
-[**Live Link**  ](https://turitors.web.app/)
+[**Live Link**  ](https://turitors.web.app/){:target="_blank"}
+[**Visit Repo **](https://github.com/iamRazzakk/turitors-client-side){:target="_blank"}
+
+
+## 🏢 Lake View Cottage (Appartment Booking)
+
+[**Live Link**  ](https://small-lakeview-cottage-3ed78.web.app/){:target="_blank"}
+[**Visit Repo **](https://github.com/iamRazzakk/lakeview-client-side){:target="_blank"}
+
+## 🚗 Partdo (Car Selling)
+
+[**Live Link**  ](https://partdo-f054e.web.app/){:target="_blank"}
+[**Visit Repo **](https://github.com/iamRazzakk/partdo-client-side){:target="_blank"}
+
 
 # 🌟 My Aspirations for the Next 2 Years:
 Over the next two years, my goal is to evolve from a junior developer to a seasoned professional. I'm dedicated to continuous learning, tackling challenging projects, and refining my skills to contribute at a higher level. I'm thrilled about the journey of growth and development ahead!
