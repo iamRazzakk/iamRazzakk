@@ -70,7 +70,7 @@ const aboutMe = {
 
 ### 🔧 Backend Projects
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <h3>🛠️ Car Washing System Server</h3>
