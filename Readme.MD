@@ -11,23 +11,24 @@
 # 👋 Hey there! I'm Md Abdur Razzak
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%26+Next.js+Enthusiast;Frontend+Specialist;Building+Amazing+User+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+SparkTech+Agency;Node.js+Specialist;MERN+Stack+Developer;Building+Scalable+Backend+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **MERN stack developer** from the vibrant city of **Chattogram, Bangladesh** 🇧🇩. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in frontend development with a strong focus on **React.js** and **Next.js**.
+I'm a passionate **MERN stack developer** from the vibrant city of **Chattogram, Bangladesh** 🇧🇩. Currently working as a **Backend Developer** at **SparkTech Agency**, specializing in **Node.js** development. With a keen eye for detail and a love for crafting seamless user experiences, I have expertise in both backend and frontend technologies.
 
 ```javascript
 const aboutMe = {
   name: "Md Abdur Razzak",
   location: "Chattogram, Bangladesh",
-  role: "MERN Stack Developer",
-  specialization: "Frontend Development",
+  role: "Backend Developer (Node.js)",
+  company: "SparkTech Agency",
+  specialization: "MERN Stack Development",
   currentlyLearning: "Next.js",
-  passion: "Creating intuitive user interfaces",
+  passion: "Building scalable backend solutions & intuitive user interfaces",
   funFact: "Committing code and committing to not taking life too seriously 🤪"
 };
 ```
@@ -36,8 +37,10 @@ const aboutMe = {
 
 ## 🎯 Quick Facts
 
+- 💼 Currently working as **Backend Developer** at **SparkTech Agency**
+- 🚀 Specializing in **Node.js** development
 - 🌱 Currently mastering **Next.js**
-- 💬 Ask me about **React** and **Frontend Development**
+- 💬 Ask me about **Node.js**, **Backend Development**, and **React**
 - 📫 Reach me at: **mdabdurrazzakrakib290@gmail.com**
 - ⚡ Fun fact: **Committing code and committing to not taking life too seriously 🤪**
 
@@ -45,19 +48,20 @@ const aboutMe = {
 
 ## 🛠️ What I Bring to the Table
 
-### 🎨 Frontend Specialist
-- Passionate about creating **aesthetically pleasing** and **intuitive user interfaces**
-- Dedicated to developing **captivating online experiences**
-- Every project demonstrates my commitment to **user-centric design**
+### 🔧 Backend Specialist
+- Currently working as **Backend Developer** at **SparkTech Agency**
+- Expertise in **Node.js** and **Express.js** development
+- Building **scalable**, **secure**, and **efficient** backend solutions
+- Experience with **RESTful APIs** and **database management**
 
-### ⚛️ React Fanatic
+### ⚛️ Frontend Enthusiast
 - Deep expertise in **React** and its **component-based architecture**
 - Building **scalable**, **maintainable**, and **efficient** applications
 - Always exploring the latest React ecosystem trends
 
-### 🌟 MERN Stack Explorer
+### 🌟 MERN Stack Developer
 - Proficient in **MongoDB**, **Express.js**, **React**, and **Node.js**
-- Building **robust** and **scalable** web applications
+- Building **robust** and **scalable** full-stack web applications
 - Continuous learning mindset with every line of code
 
 ---
@@ -133,6 +137,7 @@ const aboutMe = {
 </div>
 
 ### 🚀 Professional Growth Goals
+- **Current Role**: Backend Developer at SparkTech Agency
 - **Transition**: From junior developer to seasoned professional
 - **Commitment**: Continuous learning and skill refinement
 - **Focus**: Taking on challenging projects and contributing at a higher level
