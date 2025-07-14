@@ -52,7 +52,9 @@ const aboutMe = {
 - Currently working as **Backend Developer** at **SparkTech Agency**
 - Expertise in **Node.js** and **Express.js** development
 - Building **scalable**, **secure**, and **efficient** backend solutions
-- Experience with **RESTful APIs** and **database management**
+- Experience with **RESTful APIs**, **database management**, and **testing**
+- Proficient in **PostgreSQL**, **Redis**, **Prisma ORM**, and **MongoDB**
+- API documentation with **Swagger** and testing with **Jest** and **Postman**
 
 ### ⚛️ Frontend Enthusiast
 - Deep expertise in **React** and its **component-based architecture**
@@ -70,7 +72,7 @@ const aboutMe = {
 
 ### 🔧 Backend Projects
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <h3>🛠️ Car Washing System Server</h3>
@@ -91,7 +93,7 @@ const aboutMe = {
 
 ### 🌐 Frontend Projects (MERN Stack)
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <h3>📚 Turitors</h3>
@@ -179,11 +181,14 @@ I'm seeking opportunities to:
   <h3>🚀 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux" alt="Frontend Skills" />
   
-  <h3>🔧 Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+  <h3>🔧 Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,postgresql,redis" alt="Backend Skills" />
   
-  <h3>🛠️ Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
+  <h3>☁️ Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" alt="Cloud & DevOps" />
+  
+  <h3>🛠️ Tools & Testing</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jest,docker" alt="Tools" />
 </div>
 
 ---
