@@ -55,6 +55,7 @@ const aboutMe = {
 - Experience with **RESTful APIs**, **database management**, and **testing**
 - Proficient in **PostgreSQL**, **Redis**, **Prisma ORM**, and **MongoDB**
 - API documentation with **Swagger** and testing with **Jest** and **Postman**
+- **VPS Deployment** experience with **Hostinger**, **DigitalOcean**, and **GoDaddy**
 
 ### ⚛️ Frontend Enthusiast
 - Deep expertise in **React** and its **component-based architecture**
@@ -72,7 +73,7 @@ const aboutMe = {
 
 ### 🔧 Backend Projects
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <h3>🛠️ Car Washing System Server</h3>
@@ -93,7 +94,7 @@ const aboutMe = {
 
 ### 🌐 Frontend Projects (MERN Stack)
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <h3>📚 Turitors</h3>
@@ -184,8 +185,13 @@ I'm seeking opportunities to:
   <h3>🔧 Backend & Database</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,postgresql,redis" alt="Backend Skills" />
   
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" alt="Cloud & DevOps" />
+  <h3>☁️ Cloud & Deployment</h3>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" alt="Cloud Platforms" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" alt="GoDaddy" />
+  <img src="https://img.shields.io/badge/VPS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="VPS" />
   
   <h3>🛠️ Tools & Testing</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jest,docker" alt="Tools" />
