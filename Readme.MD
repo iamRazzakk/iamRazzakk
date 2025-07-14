@@ -1,103 +1,208 @@
-<p align="center">
-  <img src="https://i.ibb.co/fMCP35f/MERN-Starc-Developer.png" alt="Coding" width="1280" height="350" style="object-fit: cover;">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="iamrazzakk" /> </p>
- 
-# 🙋‍♂️ About me
-
-Hey there! 👋 I'm Md Abdur Razzak, a passionate MERN stack developer hailing from the vibrant city of Chattogram, Bangladesh. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in the front end, with a strong focus on React.js and Next.js.
-
-<br>
-
-- 🌱 Currently learning **Next.js**
-- 💬 Ask me about **React**
-- 📫 How to reach me: **mdabdurrazzakrakib290@gmail.com**
-- ⚡ Fun fact: **Committing code and committing to not taking life too seriously. 🤪**
-
-<br>
-
-# 🚀 What I Bring to the Table:
-- **As a future front-end developer**: I'm passionate about creating aesthetically pleasing and intuitive user interfaces. Every project I take on demonstrates my dedication to developing captivating online experiences.
-- **React Fanatic**: React and its component-based architecture especially excite me. It's essential, in my opinion, to writing scalable, manageable, and effective code.
-- **MERN Stack Explorer**: Skilled in the MERN stack (Express, React, Node, and MongoDB), I like to build reliable and scalable web applications and like learning new things every time I write a line of code.
-
-
-<br>
-
-# 🖥️ Backend Project
-
-1. ### 🛠️ Car-washing-system-server
-  - [**Visit Repo**](https://github.com/iamRazzakk/Car-washing-system-server)
-
-2. ### 📈 E-Commerce-Data-Query
-  - [**Visit Repo**](https://github.com/iamRazzakk/e-commerce-data-query)
-# 🌈 Discover Front end project with basic MERN
-
-1. ### 📚 Turitors (Educational Web)
-
-   - [**Live Link**](https://turitors.web.app/)
-   - [**Visit Repo**](https://github.com/iamRazzakk/turitors-client-side)
-
-2. ### 🏢 Lake View Cottage (Apartment Booking)
-
-   - [**Live Link**](https://small-lakeview-cottage-3ed78.web.app/)
-   - [**Visit Repo**](https://github.com/iamRazzakk/lakeview-client-side)
-
-3. ### 🚗 Partdo (Car Selling)
-
-   - [**Live Link**](https://partdo-f054e.web.app/)
-   - [**Visit Repo**](https://github.com/iamRazzakk/partdo-client-side)
-
-
-<br>
-
-
-# 🌟 My Aspirations for the Next 2 Years:
-Over the next two years, my goal is to evolve from a junior developer to a seasoned professional. I'm dedicated to continuous learning, tackling challenging projects, and refining my skills to contribute at a higher level. I'm thrilled about the journey of growth and development ahead!
-
-<br>
-
-# 💼 What I'm Looking For:
-
-My objective is to advance from a junior developer to a seasoned professional within the next two years. I'm committed to lifelong learning, taking on difficult tasks, and honing my abilities so that I can contribute more effectively. I'm excited about the path of development and growth that lies ahead!
-
-<br>
-
-# Current Stats 📊
-
-  <p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=algolia" alt="GitHub Streak">
-    </a>
-</p>
-
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=algolia" alt="Profile Details">
-</p>
-
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=algolia" alt="Repos Per Language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=algolia" alt="Stats">
-</p>
 <div align="center">
-    <div style="display: inline-block; text-align: left; background-color: #050F2C; padding: 20px; border-radius: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en&theme=algolia" alt="iamrazzakk" />
-    </div>
+  <img src="https://i.ibb.co/fMCP35f/MERN-Starc-Developer.png" alt="MERN Stack Developer" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
 </div>
 
-<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iamrazzakk?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/iamrazzakk?label=Stars&style=social" alt="GitHub Stars" />
+</div>
 
-# 💻 Technologies that I know:
+# 👋 Hey there! I'm Md Abdur Razzak
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,nodejs,nextjs,git,github,vscode,figma,ts,redux,postman" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%26+Next.js+Enthusiast;Frontend+Specialist;Building+Amazing+User+Experiences" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **MERN stack developer** from the vibrant city of **Chattogram, Bangladesh** 🇧🇩. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in frontend development with a strong focus on **React.js** and **Next.js**.
+
+```javascript
+const aboutMe = {
+  name: "Md Abdur Razzak",
+  location: "Chattogram, Bangladesh",
+  role: "MERN Stack Developer",
+  specialization: "Frontend Development",
+  currentlyLearning: "Next.js",
+  passion: "Creating intuitive user interfaces",
+  funFact: "Committing code and committing to not taking life too seriously 🤪"
+};
+```
+
+---
+
+## 🎯 Quick Facts
+
+- 🌱 Currently mastering **Next.js**
+- 💬 Ask me about **React** and **Frontend Development**
+- 📫 Reach me at: **mdabdurrazzakrakib290@gmail.com**
+- ⚡ Fun fact: **Committing code and committing to not taking life too seriously 🤪**
+
+---
+
+## 🛠️ What I Bring to the Table
+
+### 🎨 Frontend Specialist
+- Passionate about creating **aesthetically pleasing** and **intuitive user interfaces**
+- Dedicated to developing **captivating online experiences**
+- Every project demonstrates my commitment to **user-centric design**
+
+### ⚛️ React Fanatic
+- Deep expertise in **React** and its **component-based architecture**
+- Building **scalable**, **maintainable**, and **efficient** applications
+- Always exploring the latest React ecosystem trends
+
+### 🌟 MERN Stack Explorer
+- Proficient in **MongoDB**, **Express.js**, **React**, and **Node.js**
+- Building **robust** and **scalable** web applications
+- Continuous learning mindset with every line of code
+
+---
+
+## 🗂️ Featured Projects
+
+### 🔧 Backend Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>🛠️ Car Washing System Server</h3>
+      <p>A comprehensive backend solution for car washing services</p>
+      <a href="https://github.com/iamRazzakk/Car-washing-system-server">
+        <img src="https://img.shields.io/badge/Visit-Repository-blue?style=for-the-badge&logo=github" alt="Visit Repo" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>📈 E-Commerce Data Query</h3>
+      <p>Efficient data querying system for e-commerce platforms</p>
+      <a href="https://github.com/iamRazzakk/e-commerce-data-query">
+        <img src="https://img.shields.io/badge/Visit-Repository-blue?style=for-the-badge&logo=github" alt="Visit Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🌐 Frontend Projects (MERN Stack)
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>📚 Turitors</h3>
+      <p><em>Educational Web Platform</em></p>
+      <a href="https://turitors.web.app/">
+        <img src="https://img.shields.io/badge/🌐-Live%20Demo-green?style=for-the-badge" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/iamRazzakk/turitors-client-side">
+        <img src="https://img.shields.io/badge/📂-Repository-blue?style=for-the-badge" alt="Repository" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>🏢 Lake View Cottage</h3>
+      <p><em>Apartment Booking System</em></p>
+      <a href="https://small-lakeview-cottage-3ed78.web.app/">
+        <img src="https://img.shields.io/badge/🌐-Live%20Demo-green?style=for-the-badge" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/iamRazzakk/lakeview-client-side">
+        <img src="https://img.shields.io/badge/📂-Repository-blue?style=for-the-badge" alt="Repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🚗 Partdo</h3>
+      <p><em>Car Selling Platform</em></p>
+      <a href="https://partdo-f054e.web.app/">
+        <img src="https://img.shields.io/badge/🌐-Live%20Demo-green?style=for-the-badge" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/iamRazzakk/partdo-client-side">
+        <img src="https://img.shields.io/badge/📂-Repository-blue?style=for-the-badge" alt="Repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 My 2-Year Vision
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamRazzakk&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+### 🚀 Professional Growth Goals
+- **Transition**: From junior developer to seasoned professional
+- **Commitment**: Continuous learning and skill refinement
+- **Focus**: Taking on challenging projects and contributing at a higher level
+- **Excitement**: Thrilled about the journey of growth and development ahead!
+
+---
+
+## 💼 What I'm Looking For
+
+I'm seeking opportunities to:
+- **Advance** from junior to senior developer level
+- **Contribute** to innovative and challenging projects
+- **Collaborate** with talented teams
+- **Learn** and grow in a dynamic environment
+- **Make** meaningful impact through code
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRazzakk&theme=algolia" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrazzakk&theme=algolia" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrazzakk&theme=algolia" alt="Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamrazzakk&show_icons=true&locale=en&theme=algolia&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+  <h3>🚀 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux" alt="Frontend Skills" />
+  
+  <h3>🔧 Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+  
+  <h3>🛠️ Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/razzak392/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://twitter.com/rakibt23p">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:mdabdurrazzakrakib290@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<br>
+---
 
-# 📫 Connect with me:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=65&desc=Feel%20free%20to%20explore%20my%20repositories%20and%20reach%20out%20if%20you're%20looking%20for%20an%20enthusiastic%20developer!&descAlignY=85&descAlign=50" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/razzak392/)  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/rakibt23p) <br>
-<p align="left"> Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.</p>
+<div align="center">
+  <em>💡 "Building the future, one commit at a time" 💡</em>
+</div>
