@@ -91,7 +91,7 @@ const aboutMe = {
 
 ### 🌐 Frontend Projects (MERN Stack)
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <h3>📚 Turitors</h3>
