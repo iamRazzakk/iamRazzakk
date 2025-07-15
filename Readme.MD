@@ -86,8 +86,8 @@ const aboutMe = {
 
 ### 🔧 Backend Projects
 
-<table>
-  <tr align="center">
+<table align="center">
+  <tr>
     <td align="center">
       <h3>🛠️ Car Washing System Server</h3>
       <p>A comprehensive backend solution for car washing services</p>
@@ -107,8 +107,8 @@ const aboutMe = {
 
 ### 🌐 Frontend Projects (MERN Stack)
 
-<table>
-  <tr align="center">
+<table align="center">
+  <tr>
     <td align="center">
       <h3>📚 Turitors</h3>
       <p><em>Educational Web Platform</em></p>
