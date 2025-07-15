@@ -20,13 +20,6 @@
 
 I'm a passionate **MERN stack developer** from the vibrant city of **Chattogram, Bangladesh** 🇧🇩. Currently working as a **Backend Developer** at **SparkTech Agency**, specializing in **Node.js** development. With a keen eye for detail and a love for crafting seamless user experiences, I have expertise in both backend and frontend technologies.
 
-
-🎯 Contribution Stats
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=iamrazzakk&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contribution Stats" />
-</div>
-
-
 ```javascript
 const aboutMe = {
   name: "Md Abdur Razzak",
@@ -39,6 +32,19 @@ const aboutMe = {
   funFact: "Committing code and committing to not taking life too seriously 🤪"
 };
 ```
+
+---
+
+---
+
+
+
+## 🎯 Contribution Stats
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iamrazzakk&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
+
 
 ---
 
