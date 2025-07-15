@@ -16,6 +16,60 @@
 
 ---
 
+## 🌟 Open Source Contributions
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source Love" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Contributions Welcome" />
+</div>
+
+### 🤝 Contributing to the Community
+
+I believe in giving back to the developer community through open source contributions. Here are some of the projects I've contributed to:
+
+<table>
+  <tr>
+    <td align="center">
+      <h4>🔧 Project Name</h4>
+      <p><em>Brief description of your contribution</em></p>
+      <a href="https://github.com/repo-link">
+        <img src="https://img.shields.io/badge/View-Contribution-blue?style=for-the-badge&logo=github" alt="View Contribution" />
+      </a>
+    </td>
+    <td align="center">
+      <h4>🚀 Another Project</h4>
+      <p><em>What you contributed to this project</em></p>
+      <a href="https://github.com/repo-link">
+        <img src="https://img.shields.io/badge/View-Contribution-blue?style=for-the-badge&logo=github" alt="View Contribution" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>📚 Documentation</h4>
+      <p><em>Documentation improvements or translations</em></p>
+      <a href="https://github.com/repo-link">
+        <img src="https://img.shields.io/badge/View-Contribution-blue?style=for-the-badge&logo=github" alt="View Contribution" />
+      </a>
+    </td>
+    <td align="center">
+      <h4>🐛 Bug Fixes</h4>
+      <p><em>Bug fixes and improvements</em></p>
+      <a href="https://github.com/repo-link">
+        <img src="https://img.shields.io/badge/View-Contribution-blue?style=for-the-badge&logo=github" alt="View Contribution" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🎯 Contribution Stats
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iamrazzakk&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm a passionate **MERN stack developer** from the vibrant city of **Chattogram, Bangladesh** 🇧🇩. Currently working as a **Backend Developer** at **SparkTech Agency**, specializing in **Node.js** development. With a keen eye for detail and a love for crafting seamless user experiences, I have expertise in both backend and frontend technologies.
@@ -73,7 +127,7 @@ const aboutMe = {
 
 ### 🔧 Backend Projects
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <h3>🛠️ Car Washing System Server</h3>
@@ -94,7 +148,7 @@ const aboutMe = {
 
 ### 🌐 Frontend Projects (MERN Stack)
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <h3>📚 Turitors</h3>
