@@ -2,7 +2,6 @@
   <img src="https://i.ibb.co/fMCP35f/MERN-Starc-Developer.png" alt="MERN Stack Developer" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
 </div>
 
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iamrazzakk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iamrazzakk?label=Followers&style=social" alt="GitHub Followers" />
