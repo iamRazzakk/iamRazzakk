@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dabd4udau/image/upload/v1768380529/pvva2tiqbjaqbili4yfy.jpg" alt="MERN Stack Developer" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://res.cloudinary.com/dabd4udau/image/upload/v1768383586/krrt63xkjxq5vrcnxlgu.jpg" alt="MERN Stack Developer" width="100%" height="400" style="object-fit: cover; border-radius: 10px;">
 </div>
 
 <div align="center">
