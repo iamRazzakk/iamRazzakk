@@ -30,21 +30,48 @@ Currently working as a **Backend Developer at SparkTech Agency**, where I build 
 
 # 💻 Tech Stack
 
-### Backend
+### 🚀 Frontend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs,express,ts,nestjs)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+</p>
 
-### Database
+### ⚙️ Backend
 
-![Database](https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-### Frontend
+### 🗄️ Database & ORM
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,firebase" />
+</p>
 
-### DevOps & Tools
+### ☁️ DevOps & Deployment
 
-![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,jest,vscode)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,netlify" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,jest,vscode,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
 
 ---
 
