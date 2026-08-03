@@ -24,7 +24,7 @@ Currently working as a **Backend Developer at SparkTech Agency**, where I build 
 - 💻 Specializing in Node.js Backend Development
 - 🌱 Currently learning System Design, Microservices & Cloud
 - 📫 Email: **mdabdurrazzakrakib290@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/razzak392**
+- 💼 LinkedIn: **https://www.linkedin.com/in/abdur-razzak-rakib**
 
 ---
 
